@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="banner_wppr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.66296296"
+     inkscape:cx="808.49162"
+     inkscape:cy="540"
+     inkscape:window-width="1914"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="388.64746"
+       y="315.14787"
+       width="1219.2087"
+       height="437.2947"
+       id="rect4855" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient91">
+      <stop
+         style="stop-color:#abe9b3;stop-opacity:1;"
+         offset="0"
+         id="stop87" />
+      <stop
+         style="stop-color:#89dceb;stop-opacity:1"
+         offset="1"
+         id="stop89" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient91"
+       id="linearGradient93"
+       x1="0.80404276"
+       y1="-0.56787491"
+       x2="1919.8674"
+       y2="1082.8038"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient93);fill-opacity:1"
+       id="rect31"
+       width="1919.0634"
+       height="1083.3717"
+       x="0.80404276"
+       y="-0.56787491"
+       ry="106.69353"
+       rx="0" />
+    <rect
+       style="fill:none"
+       id="rect55"
+       width="478.89676"
+       height="239.04585"
+       x="151.19966"
+       y="187.56815"
+       ry="30" />
+    <ellipse
+       style="fill:#1e1e2e;stroke-width:1.00096"
+       id="path50399"
+       cx="348.89374"
+       cy="426.82794"
+       rx="55.526314"
+       ry="55.407436" />
+    <ellipse
+       style="fill:#1e1e2e;stroke-width:1.00096"
+       id="path50399-7"
+       cx="606.48083"
+       cy="427.22348"
+       rx="55.526314"
+       ry="55.407436" />
+    <text
+       xml:space="preserve"
+       id="text4853"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:'Fira Sans Compressed';font-style:normal;font-weight:900;font-size:40px;white-space:pre;shape-inside:url(#rect4855);-inkscape-font-specification:'Fira Sans Compressed Heavy Ultra-Condensed';font-stretch:ultra-condensed;font-variant:normal" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:ultra-condensed;font-size:192px;line-height:1.25;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed Heavy Ultra-Condensed';fill:#000000;fill-opacity:1;stroke:none"
+       x="959.1817"
+       y="620.23773"
+       id="text15949"><tspan
+         sodipodi:role="line"
+         id="tspan15947"
+         x="959.1817"
+         y="620.23773"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:ultra-condensed;font-size:192px;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed Heavy Ultra-Condensed'">Wallpapers</tspan></text>
+    <rect
+       style="fill:#161320"
+       id="rect49433"
+       width="14.26932"
+       height="987.40436"
+       x="879.95355"
+       y="37.7663"
+       ry="9.1416006" />
+    <ellipse
+       style="fill:#161320"
+       id="path49691"
+       cx="486.46054"
+       cy="566.52478"
+       rx="182.07765"
+       ry="175.22902" />
+    <rect
+       style="fill:#302d41"
+       id="rect49997"
+       width="100.53095"
+       height="215.43648"
+       x="438.0032"
+       y="558.69464"
+       ry="36.860096" />
+    <ellipse
+       style="fill:#d9e0ee;stroke-width:0.935116"
+       id="path50169"
+       cx="488.64667"
+       cy="608.94904"
+       rx="34.613331"
+       ry="34.60141" />
+    <rect
+       style="fill:#d9e0ee;stroke-width:1.0771"
+       id="rect50295"
+       width="200.79858"
+       height="49.099308"
+       x="388.06693"
+       y="494.0007"
+       ry="13.476681" />
+  </g>
+</svg>
